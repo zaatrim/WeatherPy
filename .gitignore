@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#Adding addtional Ignore files
+config.py
+
 # C extensions
 *.so
 
